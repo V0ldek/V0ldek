@@ -2,7 +2,7 @@
 
 I'm Mat and I do code. Most of the time. Sometimes the code does me.
 
-Currently I'm working on my soon-to-be-published masters and on my website https://gienieczko.com/, hosting an interactive beginner C# course.
+Currently I'm working at Microsoft Ireland on IAM stuff, developing [`rsonpath`](https://github.com/v0ldek/rsonpath) in the free time.
 
 C# is my native language, but I'm having a passionate affair with Rust.
 
