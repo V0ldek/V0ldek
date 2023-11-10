@@ -2,7 +2,8 @@
 
 I'm Mat and I do code. Most of the time. Sometimes the code does me.
 
-Currently I'm working at Microsoft Ireland on IAM stuff, developing [`rsonpath`](https://github.com/v0ldek/rsonpath) in the free time.
+Currently I'm working as a PhD student at the Database Chair of Technische Universität München on [Umbra](https://umbra-db.com/),
+developing [`rsonpath`](https://github.com/v0ldek/rsonpath) in the free time.
 
 C# is my native language, but I'm having a passionate affair with Rust.
 
